@@ -1,6 +1,8 @@
 ![Blinkit](https://github.com/user-attachments/assets/4317500a-c87b-4e20-a50b-01cff0d44bb3)
 🚀 Key Insights from Blinkit Sales Data Analysis 🚀
 Leveraging Power BI, I've uncovered some compelling insights into Blinkit's sales performance across various dimensions like fat content, location, outlet size, and item types. Here's a breakdown of the findings:
+
+
 🍽️ 1. Fat Content Analysis:
 •	Low-fat products dominate with total sales of $776K, significantly outperforming regular-fat products at $425K.
 •	The highest sales for low-fat products come from Tier 3 locations, contributing a massive $307K (40% of overall low-fat sales). This shows a strong preference for healthier options in less urbanized regions.
